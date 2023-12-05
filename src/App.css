@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+.ant-select-multiple .ant-select-selection-item {
+  height: 27px;
+}
+
+.todoList::-webkit-scrollbar {
+  width: 4px;
+}
+
+.todoList::-webkit-scrollbar-thumb {
+  background-color: blue;
+}
+
+.todoList::-webkit-scrollbar-track {
+  background-color: transparent;
+}
